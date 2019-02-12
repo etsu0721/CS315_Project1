@@ -1,0 +1,37 @@
+./project1
+Caller arrived at 0.246668      Client number 1     Queue now has length 1   
+Caller serviced at 0.331371     Client number 1     Queue now has length 0   
+Caller arrived at 1.532742      Client number 2     Queue now has length 1   
+Caller serviced at 1.576599     Client number 2     Queue now has length 0   
+Caller arrived at 1.582010      Client number 3     Queue now has length 1   
+Caller arrived at 1.951679      Client number 4     Queue now has length 2   
+Walk-in arrived at 2.043715     Client number 5     Queue now has length 3   
+Caller serviced at 2.088769     Client number 4     Queue now has length 2   
+Caller serviced at 2.236785     Client number 3     Queue now has length 1   
+Caller arrived at 2.371848      Client number 6     Queue now has length 2   
+Walk-in arrived at 2.909940     Client number 7     Queue now has length 3   
+Walk-in arrived at 2.987871     Client number 8     Queue now has length 4   
+Caller serviced at 3.026525     Client number 6     Queue now has length 3   
+Walk-in serviced at 3.166677    Client number 5     Queue now has length 2   
+Walk-in serviced at 3.285771    Client number 7     Queue now has length 1   
+Walk-in serviced at 3.408030    Client number 8     Queue now has length 0   
+Caller arrived at 3.645401      Client number 9     Queue now has length 1   
+Walk-in arrived at 4.355375     Client number 10    Queue now has length 2   
+Caller serviced at 4.416853     Client number 9     Queue now has length 1   
+Caller arrived at 4.465230      Client number 11    Queue now has length 2   
+Caller serviced at 4.686242     Client number 11    Queue now has length 1   
+Walk-in arrived at 5.166593     Client number 12    Queue now has length 2   
+Walk-in serviced at 5.413575    Client number 10    Queue now has length 1   
+Walk-in serviced at 5.738519    Client number 12    Queue now has length 0   
+Caller arrived at 6.475451      Client number 13    Queue now has length 1   
+Caller serviced at 6.616646     Client number 13    Queue now has length 0   
+Walk-in arrived at 6.739953     Client number 14    Queue now has length 1   
+Walk-in arrived at 7.521655     Client number 15    Queue now has length 2   
+Walk-in serviced at 8.235539    Client number 14    Queue now has length 1   
+Caller arrived at 8.866953      Client number 16    Queue now has length 2   
+Caller serviced at 9.016572     Client number 16    Queue now has length 1   
+Walk-in arrived at 9.431344     Client number 17    Queue now has length 2   
+Caller arrived at 9.547658      Client number 18    Queue now has length 3   
+Caller serviced at 9.797565     Client number 18    Queue now has length 2   
+Caller arrived at 9.949857      Client number 19    Queue now has length 3   
+Max time (10) reached
